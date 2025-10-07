@@ -10,6 +10,7 @@ import (
 
 const usersFile = "users.txt"
 const booksFile = "books.txt"
+//ini program awal tugas besar semester 2
 
 type User struct {
 	IDPengguna   int
